@@ -88,7 +88,7 @@ em { font-style: italic; }
   font-family: var(--ff-serif);
   font-size: clamp(24px, 6vw, 46px);
   font-weight: 400;
-  line-height: 1.22;
+  line-height: 1.38;
   letter-spacing: -0.014em;
   margin: 16px 0 24px;
   text-wrap: balance;
@@ -101,8 +101,8 @@ em { font-style: italic; }
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
-  padding-left: 5px;
-  margin-left: -5px;
+  padding: 0.12em 5px;
+  margin: -0.12em -5px;
 }
 .h2 {
   font-family: var(--ff-serif);
@@ -509,6 +509,11 @@ em { font-style: italic; }
   gap: clamp(24px, 3vw, 36px);
   margin-bottom: 56px;
 }
+.proof__after {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 52px;
+}
 .ba-grid > article:nth-child(3):last-child {
   grid-column: 1 / -1;
   max-width: calc(50% - 18px);
@@ -606,6 +611,9 @@ em { font-style: italic; }
 @media (max-width: 620px) {
   .ba-grid { grid-template-columns: 1fr; }
   .ba-grid > article:nth-child(3):last-child { max-width: 100%; }
+  .proof__checklist { justify-items: center; }
+  .proof__checklist li { justify-content: center; }
+  .proof__note { text-align: center; }
 }
 
 /* Selo de autoridade */

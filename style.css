@@ -341,6 +341,7 @@ em { font-style: italic; }
   border-radius: var(--radius-xl);
   overflow: hidden;
   background: var(--c-secondary);
+  border: 1px solid rgba(255,255,255,.6);
   box-shadow: var(--shadow-lg);
   isolation: isolate;
 }
@@ -854,6 +855,7 @@ em { font-style: italic; }
   border-radius: var(--radius-xl);
   overflow: hidden;
   background: var(--c-secondary);
+  border: 1px solid rgba(255,255,255,.6);
   box-shadow: var(--shadow-lg);
 }
 .about__photo-frame::before { /* warm tint */

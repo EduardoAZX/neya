@@ -1081,6 +1081,15 @@ em { font-style: italic; }
     width: 100%;
   }
 
+  /* Botões de largura total: evita texto/ícone cortados quando não cabem em uma linha */
+  .hero__ctas .btn,
+  .about__copy .btn,
+  .seal .btn {
+    white-space: normal;
+    text-align: center;
+    padding: 14px 18px;
+  }
+
   /* Reduz padding interno do card antes/depois */
   .ba-card { padding: 12px; }
   .ba-card__caption h3 { font-size: 17px; }

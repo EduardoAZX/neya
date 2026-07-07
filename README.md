@@ -1,6 +1,6 @@
 # Dra. Neya Penha · Landing Page
 
-Landing page de captação de leads para a **Dra. Neya Penha**, especialista em tratamento de estrias e responsável pelo protocolo autoral **Beauty Derm** (microagulhamento associado a ativos regeneradores, em apenas 3 sessões).
+Landing page de captação de leads para a **Dra. Neya Penha**, especialista em tratamento de estrias e responsável pelo protocolo autoral **Beauty Derm** (microagulhamento associado a ativos regeneradores, em apenas 5 sessões).
 
 ---
 
@@ -50,11 +50,11 @@ Neya Penha/
 ### 🟠 Dobra 1 · Dor
 - **Imagens:** `assets/doctor.webp`.
 - H1 de dor (estrias/autoestima) + parágrafo de contexto + CTA primário (`#agendar`) e CTA fantasma (`#resultados`).
-- Pills de diferenciais (tratamento individualizado, apenas 3 sessões, kit home care) e marquee decorativo.
+- Pills de diferenciais (tratamento individualizado, apenas 5 sessões, kit home care) e marquee decorativo.
 
 ### 🟠 Dobra 2 · Resultados
 - **Imagens:** `assets/before-after-1..3-antes.webp` / `-depois.webp`.
-- Grid de 3 cards com pares antes/depois lado a lado, checklist de diferenciais e selo de autoridade ("3 sessões apenas").
+- Grid de 3 cards com pares antes/depois lado a lado, checklist de diferenciais e selo de autoridade ("5 sessões apenas").
 
 ### 🟠 Dobra 3 · Formulário (captação)
 - **Campos:** Nome, Telefone (WhatsApp, máscara `(00) 00000-0000`), Cidade, "Como surgiram suas estrias?" (rádio: Pós-parto / Pós-emagrecimento / Ganho de peso / Outro).
